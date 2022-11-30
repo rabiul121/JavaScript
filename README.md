@@ -2,7 +2,7 @@
 
 This repo contains JavaScript practice files and project directory
 
-## Project Lists:
+## Project Lists
 
     - 14-js-project
     - The Odin Project
